@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "14wFfe843gqA1cMRRzSiA6Kws0lhrp5yU8aV0Wz3DHQ=",
+  "Source": "HRMSDocker",
+  "BasePath": "_content/HRMSDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
